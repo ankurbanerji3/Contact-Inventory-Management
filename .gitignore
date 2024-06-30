@@ -38,7 +38,3 @@ bld/
 .history/
 .idea/
 .vs/
-
-# Ignore all directories named `obj`
-**/obj/
-**/bin/
